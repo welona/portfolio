@@ -34,8 +34,8 @@
     "sw-toolbox": "^3.0.1",
     "vinyl": "^0.3.0"
   },
-   "scripts": {
-    "gulp": "gulp serve"
+ "scripts": {
+    "start": "gulp serve"
   },
   "engines": {
     "node": "8.16.2"
