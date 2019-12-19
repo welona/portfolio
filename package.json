@@ -35,7 +35,7 @@
     "vinyl": "^0.3.0"
   },
   "engines": {
-    "node": ">=0.12"
+    "node": "8.16.2"
   },
   "private": true,
   "scripts": {
