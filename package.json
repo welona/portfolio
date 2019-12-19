@@ -35,7 +35,7 @@
     "vinyl": "^0.3.0"
   },
    "scripts": {
-    "start": "gulp serve"
+    "gulp": "gulp serve"
   },
   "engines": {
     "node": "8.16.2"
