@@ -5,7 +5,7 @@ node_modules
 .DS_Store
 .DS_Store?
 app.yaml
-
+package-lock.json
 #sketch
 *.sketch
 */.sketch
